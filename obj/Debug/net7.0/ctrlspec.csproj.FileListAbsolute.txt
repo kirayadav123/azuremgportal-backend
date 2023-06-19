@@ -1,0 +1,392 @@
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\AMRUTAMK\Documents\Honeywell\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\rutujasj\Downloads\ctrlspec\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\sashahi\Downloads\ctrlspec (3)\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\sashahi\source\repos\Migration\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.AssemblyReference.cache
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfoInputs.cache
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.AssemblyInfo.cs
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CoreCompileInputs.cache
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\refint\ctrlspec.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.pdb
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\appsettings.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\package-lock.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\package.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.exe
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.deps.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.runtimeconfig.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\ctrlspec.pdb
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Humanizer.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.ctrlspec.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.build.ctrlspec.props
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ctrlspec.props
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ctrlspec.props
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\scopedcss\bundle\ctrlspec.styles.css
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.csproj.CopyComplete
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ctrlspec.genruntimeconfig.cache
+C:\Users\itsya\OneDrive\Documents\Migration (3)\Migration\ctrlspec\obj\Debug\net7.0\ref\ctrlspec.dll
